@@ -1,1 +1,3 @@
-#myappI am learning git
+#myapp
+
+ILearning functionality
