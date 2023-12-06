@@ -1,2 +1,2 @@
-# MyFirstEntry
-Learning git
+# Sign up Page
+Learning Functionality
